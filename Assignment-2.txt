@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ROSP Practice</title>
+</head>
+<body>
+    <h1>Welcome to ROSP Practice</h1>
+    <p>This is a simple HTML project.</p>
+</body>
+</html>
